@@ -1,2 +1,2 @@
-# Altamont-Hactoberfest-2018
-# Hacktoberfest Challenges for HTML
+# Altamont-Hactoberfest-2018-HTML
+
